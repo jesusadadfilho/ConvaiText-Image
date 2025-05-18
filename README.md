@@ -62,7 +62,7 @@ O projeto faz uso das seguintes APIs externas:
 
 ---
 
-## 🖼️ Exibição 3D: `BP_DisplayActor`
+## 🖼️ Exibição 3D: `BP_ContextDisplay`
 
 - Usa um `WidgetComponent` no mundo 3D para exibir imagens ou vídeos
 - Renderiza:
